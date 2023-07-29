@@ -1,0 +1,14 @@
+{
+  "name": "testingpratice1",
+  "version": "1.0.0",
+  "description": "some test",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
